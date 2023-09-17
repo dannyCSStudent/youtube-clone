@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hhtp//dannyCSStudent.github.io/youtube-clone/static/css/main.54bf59db.css",
+    "main.js": "/hhtp//dannyCSStudent.github.io/youtube-clone/static/js/main.bb354825.js",
+    "index.html": "/hhtp//dannyCSStudent.github.io/youtube-clone/index.html",
+    "main.54bf59db.css.map": "/hhtp//dannyCSStudent.github.io/youtube-clone/static/css/main.54bf59db.css.map",
+    "main.bb354825.js.map": "/hhtp//dannyCSStudent.github.io/youtube-clone/static/js/main.bb354825.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54bf59db.css",
+    "static/js/main.bb354825.js"
+  ]
+}
