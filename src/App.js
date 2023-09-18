@@ -4,10 +4,10 @@ import { Box } from '@mui/material';
 import { Navbar, Feed, ChannelDetail, SearchFeed,VideoDetail } from './components';
 
 const App = () => (
-    <BrowserRouter>
+    <BrowserRouter basename='/youtube-clone'>
         <Box sx={{ backgroundColor: '#000' }}>
             <Navbar />
-            <Routes path='/'>
+            <Routes>
                 <Route path='/' exact element={<Feed />} />
                 <Route path='/video/:id' element={<VideoDetail />} />
                 <Route path='/channel/:id' element={<ChannelDetail />} />
